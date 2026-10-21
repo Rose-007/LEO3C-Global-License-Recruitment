@@ -1,6 +1,6 @@
 # 🌍 LEO3C Global License Recruitment & Ecosystem Portal
 https://github.com/Rose-007/LEO-3C-AI-Success-Case-Study
-[[Description](https://github.com/Rose-007/Leo3c-Master-Contract.html)]
+[[Description](index.html)]
 ![Design Guidelines](Leo3c-hand.jpg)
 
 ---
