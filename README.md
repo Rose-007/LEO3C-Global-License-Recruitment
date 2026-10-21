@@ -1,5 +1,5 @@
 # 🌍 LEO3C Global License Recruitment & Ecosystem Portal
-https://github.com/Rose-007/LEO-3C-AI-Success-Case-Study
+
 
 ![Design Guidelines](Leo3c-hand.jpg)
 
