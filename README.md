@@ -1,6 +1,6 @@
 # 🌍 LEO3C Global License Recruitment & Ecosystem Portal
 LEO-3C-AI-Success-Case-Study
-[[Application documents](Leo3c-V2-Countries-Locked.html)]
+[[Application documents](https://www.meta.ai/share/a/23779ab8-b683-4319-82d2-43392f4ee930)]
 > **AI-Success Foundation • IA&IB Architecture • Blockchain Verified System**  
 > *Empowering ergonomic innovation through decentralized network models, local manufacturing identity, and transparent timestamp tracking.*
 
